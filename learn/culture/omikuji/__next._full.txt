@@ -1,42 +1,48 @@
 1:"$Sreact.fragment"
-2:"/real-japan-app/_next/static/chunks/16zaab6jfv0wk.js"
-3:"OfflineIndicator"
-4:I[42281,["$2"],"$3"]
-5:"ServiceWorkerRegistrar"
-6:I[33539,["$2"],"$5"]
-7:I[39756,["$2"],"default"]
-8:"/real-japan-app/_next/static/chunks/1ba32ll7q8fje.js"
-9:I[58298,["$2","$8"],"default"]
-a:I[37457,["$2"],"default"]
-b:"/real-japan-app/_next/static/chunks/2n5qeheznvl4u.js"
-c:I[22016,["$2","$b"],""]
-e:"/real-japan-app/_next/static/chunks/2a-nghl166obr.js"
-f:I[74341,["$2","$e"],"BottomNav"]
-16:I[97367,["$2"],"OutletBoundary"]
-17:"$Sreact.suspense"
-19:"ViewportBoundary"
-1a:I[97367,["$2"],"$19"]
-1c:"MetadataBoundary"
-1d:I[97367,["$2"],"$1c"]
-1f:I[68027,["$2"],"default",1]
+2:"/real-japan-app/_next/static/chunks/3ofmdp3rr5khs.js"
+3:"designBootScript"
+4:I[26143,["$2"],"$3"]
+5:"OfflineIndicator"
+6:I[42281,["$2"],"$5"]
+7:"ServiceWorkerRegistrar"
+8:I[33539,["$2"],"$7"]
+9:"DesignController"
+a:I[26143,["$2"],"$9"]
+b:I[39756,["$2"],"default"]
+c:"/real-japan-app/_next/static/chunks/1ba32ll7q8fje.js"
+d:I[58298,["$2","$c"],"default"]
+e:I[37457,["$2"],"default"]
+f:"/real-japan-app/_next/static/chunks/2n5qeheznvl4u.js"
+10:I[22016,["$2","$f"],""]
+12:"/real-japan-app/_next/static/chunks/1kfwx8eq_6bxs.js"
+13:I[74341,["$2","$12"],"BottomNav"]
+1a:I[97367,["$2"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:"ViewportBoundary"
+1e:I[97367,["$2"],"$1d"]
+20:"MetadataBoundary"
+21:I[97367,["$2"],"$20"]
+23:I[68027,["$2"],"default",1]
 :HL["/real-japan-app/_next/static/chunks/1bo3lnsgp0rn8.css","style"]
 :HL["/real-japan-app/_next/static/chunks/0wgyimuxu5_4c.css","style"]
-:HL["/real-japan-app/_next/static/chunks/22yg1j-wp6cxs.css","style"]
+:HL["/real-japan-app/_next/static/chunks/09y5za1n-m86f.css","style"]
+:HL["/real-japan-app/_next/static/chunks/15uh-n7oyb311.css","style"]
+:HL["/real-japan-app/_next/static/chunks/0_qypapux-pt4.css","style"]
 :HL["/real-japan-app/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-11:X
-14:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L15",[["$","script","script-0",{"src":"/real-japan-app/_next/static/chunks/195bwivu0kx3u.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/real-japan-app/_next/static/chunks/3_ive-03c4f-i.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/real-japan-app/_next/static/chunks/44ds7ur53xb7q.js","async":true,"nonce":"$undefined"}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":false,"v":null}}]]
-13:[["children",{"s":{"n":"slug","t":"d","k":"omikuji","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$11"},"c":"$Q14"}]]
-12:[["children",{"s":{"n":"type","t":"d","k":"culture","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$11"},"c":"$Q13"}]]
-10:[["children",{"s":"learn","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$11"},"c":"$Q12"}]]
-d:[["children",{"s":"(app)","h":512,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/real-japan-app/_next/static/chunks/2a-nghl166obr.js","async":true,"nonce":"$undefined"}]],[["$","main",null,{"id":"main","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"mx-auto flex min-h-dvh max-w-md flex-col items-center justify-center px-6 text-center","children":[["$","p",null,{"className":"text-5xl font-black","children":"404"}],["$","h1",null,{"className":"mt-2 text-xl font-bold","children":"We couldn't find that page"}],["$","$Lc",null,{"href":"/discover","className":"mt-6 inline-flex min-h-11 items-center rounded-xl bg-red-strong px-5 font-semibold text-white","children":"Go to Discover"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Lf",null,{}]]]}],"p":false,"v":null},"c":"$Q10"}]]
-0:{"P":null,"c":["","learn","culture","omikuji",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/1bo3lnsgp0rn8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/0wgyimuxu5_4c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/22yg1j-wp6cxs.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/real-japan-app/_next/static/chunks/16zaab6jfv0wk.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"_0bjUvq_variable sy_95G_variable","children":["$","body",null,{"className":"min-h-dvh antialiased","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-2 focus:top-2 focus:z-[100] focus:rounded-lg focus:bg-white focus:px-4 focus:py-2","children":"Skip to content"}],["$","$L4",null,{}],["$","$L6",null,{}],["$","$L7",null,{"parallelRouterKey":"children","error":"$9","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/real-japan-app/_next/static/chunks/1ba32ll7q8fje.js","async":true,"nonce":"$undefined"}]],"template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"mx-auto flex min-h-dvh max-w-md flex-col items-center justify-center px-6 text-center","children":[["$","p",null,{"className":"text-5xl font-black","children":"404"}],["$","h1",null,{"className":"mt-2 text-xl font-bold","children":"We couldn't find that page"}],["$","$Lc",null,{"href":"/discover","className":"mt-6 inline-flex min-h-11 items-center rounded-xl bg-red-strong px-5 font-semibold text-white","children":"Go to Discover"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],"p":false,"v":null},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1f",[["$","link","0",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/1bo3lnsgp0rn8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/0wgyimuxu5_4c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/22yg1j-wp6cxs.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"flSbTp9NmQ42Xi1F9mE2D"}
-20:"/real-japan-app/_next/static/chunks/195bwivu0kx3u.js"
-21:"/real-japan-app/_next/static/chunks/3_ive-03c4f-i.js"
-22:"/real-japan-app/_next/static/chunks/44ds7ur53xb7q.js"
-23:I[20528,["$2","$e","$20","$21","$22"],"CultureDetail"]
-11:C
-15:["$","$L23",null,{"slug":"omikuji"}]
-1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#0B0D12"}]]
-24:I[27201,["$2"],"IconMark"]
-18:null
-1e:[["$","title","0",{"children":"What does your omikuji fortune say? · REAL JAPAN"}],["$","meta","1",{"name":"description","content":"Real words. Real culture. Real travel. Learn Japanese slang and culture through short videos."}],["$","link","2",{"rel":"manifest","href":"/real-japan-app/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","link","4",{"rel":"icon","href":"/real-japan-app/icon.svg?icon.2em9znjhysid5.svg","sizes":"any","type":"image/svg+xml"}],["$","$L24","5",{}]]
+15:X
+18:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L19",[["$","script","script-0",{"src":"/real-japan-app/_next/static/chunks/1nca9xxwlqsxe.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/real-japan-app/_next/static/chunks/0x3o6-p1q1mhq.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/real-japan-app/_next/static/chunks/1osptc8_mjj55.js","async":true,"nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}],"p":false,"v":null}}]]
+17:[["children",{"s":{"n":"slug","t":"d","k":"omikuji","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$15"},"c":"$Q18"}]]
+16:[["children",{"s":{"n":"type","t":"d","k":"culture","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$15"},"c":"$Q17"}]]
+14:[["children",{"s":"learn","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$15"},"c":"$Q16"}]]
+11:[["children",{"s":"(app)","h":512,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/real-japan-app/_next/static/chunks/1kfwx8eq_6bxs.js","async":true,"nonce":"$undefined"}]],[["$","main",null,{"id":"main","children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"mx-auto flex min-h-dvh max-w-md flex-col items-center justify-center px-6 text-center","children":[["$","p",null,{"className":"text-5xl font-black","children":"404"}],["$","h1",null,{"className":"mt-2 text-xl font-bold","children":"We couldn't find that page"}],["$","$L10",null,{"href":"/discover","className":"mt-6 inline-flex min-h-11 items-center rounded-xl bg-red-strong px-5 font-semibold text-white","children":"Go to Discover"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L13",null,{}]]]}],"p":false,"v":null},"c":"$Q14"}]]
+0:{"P":null,"c":["","learn","culture","omikuji",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/1bo3lnsgp0rn8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/0wgyimuxu5_4c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/09y5za1n-m86f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/15uh-n7oyb311.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/0_qypapux-pt4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/real-japan-app/_next/static/chunks/3ofmdp3rr5khs.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"_0bjUvq_variable sy_95G_variable _1LvbhW_variable yoCF6q_variable","data-design":"neon","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}]}],["$","body",null,{"className":"min-h-dvh antialiased","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-2 focus:top-2 focus:z-[100] focus:rounded-lg focus:bg-white focus:px-4 focus:py-2","children":"Skip to content"}],["$","$L6",null,{}],["$","$L8",null,{}],["$","$La",null,{}],["$","$Lb",null,{"parallelRouterKey":"children","error":"$d","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/real-japan-app/_next/static/chunks/1ba32ll7q8fje.js","async":true,"nonce":"$undefined"}]],"template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"mx-auto flex min-h-dvh max-w-md flex-col items-center justify-center px-6 text-center","children":[["$","p",null,{"className":"text-5xl font-black","children":"404"}],["$","h1",null,{"className":"mt-2 text-xl font-bold","children":"We couldn't find that page"}],["$","$L10",null,{"href":"/discover","className":"mt-6 inline-flex min-h-11 items-center rounded-xl bg-red-strong px-5 font-semibold text-white","children":"Go to Discover"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],"p":false,"v":null},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L22"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$23",[["$","link","0",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/1bo3lnsgp0rn8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/0wgyimuxu5_4c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/09y5za1n-m86f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/15uh-n7oyb311.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/real-japan-app/_next/static/chunks/0_qypapux-pt4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ch8aROXrXghBxroat51y8"}
+24:"/real-japan-app/_next/static/chunks/1nca9xxwlqsxe.js"
+25:"/real-japan-app/_next/static/chunks/0x3o6-p1q1mhq.js"
+26:"/real-japan-app/_next/static/chunks/1osptc8_mjj55.js"
+27:I[20528,["$2","$12","$24","$25","$26"],"CultureDetail"]
+15:C
+19:["$","$L27",null,{"slug":"omikuji"}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#0B0D12"}]]
+28:I[27201,["$2"],"IconMark"]
+1c:null
+22:[["$","title","0",{"children":"What does your omikuji fortune say? · REAL JAPAN"}],["$","meta","1",{"name":"description","content":"Real words. Real culture. Real travel. Learn Japanese slang and culture through short videos."}],["$","link","2",{"rel":"manifest","href":"/real-japan-app/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","link","4",{"rel":"icon","href":"/real-japan-app/icon.svg?icon.2em9znjhysid5.svg","sizes":"any","type":"image/svg+xml"}],["$","$L28","5",{}]]
