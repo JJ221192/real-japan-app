@@ -81,7 +81,7 @@ self.addEventListener("activate", (event) => {
 function offlinePage() {
   const home = BASE + "/";
   const html = `<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Offline · REAL JAPAN</title><body style="font-family:system-ui,sans-serif;background:#f5f3ef;color:#111315;padding:32px 20px;line-height:1.6">
+<title>Offline · リアル日本</title><body style="font-family:system-ui,sans-serif;background:#f5f3ef;color:#111315;padding:32px 20px;line-height:1.6">
 <h1 style="font-size:22px">You're offline</h1><p>This page hasn't been saved on this device yet.</p>
 <p>These work offline after your first visit:</p>
 <p><a href="${BASE}/travel/">Travel phrases</a> · <a href="${BASE}/my-japan/">My Page (saved Trip Kit)</a></p>
