@@ -1,7 +1,7 @@
-:HL["/real-japan-app/_next/static/chunks/44ccztdi667l9.css","style"]
+:HL["/real-japan-app/_next/static/chunks/1f3bqprvyibvv.css","style"]
 5:[["children",{"s":"__PAGE__","h":160}]]
 4:[["children",{"s":{"n":"slug","t":"d","k":"donmai","s":[]},"h":96,"c":"$Q5"}]]
 3:[["children",{"s":{"n":"type","t":"d","k":"word","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"learn","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
-0:{"b":"oRUE4Pprrivlo0EN6zrz_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"FB0jXI77Ew6Qc5FhPMeVt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
