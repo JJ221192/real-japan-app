@@ -2,10 +2,10 @@
 :HL["/real-japan-app/_next/static/chunks/0wgyimuxu5_4c.css","style"]
 :HL["/real-japan-app/_next/static/chunks/09y5za1n-m86f.css","style"]
 :HL["/real-japan-app/_next/static/chunks/15uh-n7oyb311.css","style"]
-:HL["/real-japan-app/_next/static/chunks/3-njvfpoifj_n.css","style"]
+:HL["/real-japan-app/_next/static/chunks/3ohs9u9iah398.css","style"]
 :HL["/real-japan-app/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"id","t":"d","k":"sorena","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"quiz","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(focus)","h":96,"c":"$Q2"}]]
-0:{"b":"096R1g-Lz09xlZC1tv83u","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"g5MebbtIQOygY7fUb3TBo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,6 +1,7 @@
 {
   "name": "リアル日本",
   "short_name": "リアル日本",
+  "description": "AIを活用してアイデアを形にできることを実践で示すために作成した、あくまでサンプルです。",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0B0D12",
