@@ -1,5 +1,8 @@
-:HL["/real-japan-app/_next/static/chunks/1f3bqprvyibvv.css","style"]
+:HL["/real-japan-app/_next/static/chunks/1bo3lnsgp0rn8.css","style"]
+:HL["/real-japan-app/_next/static/chunks/0wgyimuxu5_4c.css","style"]
+:HL["/real-japan-app/_next/static/chunks/25bizbf-p7hgh.css","style"]
+:HL["/real-japan-app/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"pass","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(focus)","h":96,"c":"$Q2"}]]
-0:{"b":"FB0jXI77Ew6Qc5FhPMeVt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"F4dW2gnMuCt3LoLWdg-SE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
