@@ -1,10 +1,10 @@
 :HL["/real-japan-app/_next/static/chunks/1bo3lnsgp0rn8.css","style"]
 :HL["/real-japan-app/_next/static/chunks/0wgyimuxu5_4c.css","style"]
-:HL["/real-japan-app/_next/static/chunks/34sepcg9r_juo.css","style"]
+:HL["/real-japan-app/_next/static/chunks/22yg1j-wp6cxs.css","style"]
 :HL["/real-japan-app/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 5:[["children",{"s":"__PAGE__","h":160}]]
 4:[["children",{"s":{"n":"slug","t":"d","k":"trash-bins","s":[]},"h":96,"c":"$Q5"}]]
 3:[["children",{"s":{"n":"type","t":"d","k":"culture","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"learn","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
-0:{"b":"lKBGq63tnCoJXhBHs-zzP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"flSbTp9NmQ42Xi1F9mE2D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
